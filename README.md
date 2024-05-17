@@ -39,9 +39,6 @@ If you want to run this project locally perform following steps
 - Be careful when you run code if you meet the variable that take the path of dataset you should put the local path of dataset.
 
 
-- This help you to get the new path of dataset from your local folder
- <img src="/Path.png" width="600">
-
  
 - Collecting Pose Landmarks for training and testing can take up to 195 minutes.
 
